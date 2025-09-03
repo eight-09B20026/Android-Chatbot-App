@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ChatBot</string>
+    <string name="send">送信</string>
+    <string name="input">メッセージを入力</string>
+    <string name="clear">クリア</string>
+    <string name="rollback">-1</string>
+    <string name="regeneration">再生成</string>
+    <string name="latest">最新へ</string>
+    <string name="copy">コピー</string>
+    <string name="share">共有</string>
+    <string name="delete">削除</string>
+    <string name="regen_this">この返答を再生成</string>
+</resources>
