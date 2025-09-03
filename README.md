@@ -20,7 +20,7 @@ RecyclerView + ListAdapter 構成で、メッセージバブル／再生成／�
 ## 🧰 要件
 
 * Android Studio (2024-11)
-* 最低 SDK（目安）：`minSdk 24+`（必要に応じて変更）
+* 最低 SDK（目安）：`minSdk 24+`
 * 依存：
 
   * `com.google.android.material:material`（Snackbar, FAB などで使用）
